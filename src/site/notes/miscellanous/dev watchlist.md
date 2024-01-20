@@ -30,3 +30,9 @@ Here are things that caught my attentions, they are mostly open source (note to 
 	- handy declarative animation library
 - https://vanna.ai/docs/
 	- to query SQL db using human language
+- https://github.com/huginn/huginn
+	- agents
+- https://github.com/DIYgod/RSSHub
+	- for rss agregration
+- https://apps.heimdall.site/applications/foundation
+	- tons of open source apps
