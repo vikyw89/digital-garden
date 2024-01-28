@@ -31,4 +31,6 @@ Several other things that keep me busy:
 - [[miscellanous/dev watchlist\|dev watchlist]]
 - [[miscellanous/project-ideas/project ideas\|project ideas]]
 - [[miscellanous/scratchpads\|scratchpads]]
+- [[scrips\|scrips]]
+- [[benchmark\|benchmark]]
 
