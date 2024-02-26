@@ -10,6 +10,7 @@ I'm interested in software development, and programming in general. Enjoyed solv
 
 ### Projects
 Some of my projects, ordered by starting date. Some links might be broken due to non-renewed hosting services.
+check status [here](http://service-l00c0ow.107.173.7.184.sslip.io/status/all)
 
 | start date | project name                 | live preview                                                                                                                                                                                                                                                                                                                              | repository                                                                                                   | status        |
 | ---------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------- |
