@@ -43,4 +43,5 @@ Several other things that keep me busy:
 - [[miscellanous/benchmark\|benchmark]]
 - [[scrum/scrum\|scrum]]
 - [[authentication and authorization\|authentication and authorization]]
+- [[rpc vs rest\|rpc vs rest]]
 
