@@ -44,4 +44,5 @@ Several other things that keep me busy:
 - [[scrum/scrum\|scrum]]
 - [[authentication and authorization\|authentication and authorization]]
 - [[rpc vs rest\|rpc vs rest]]
+- [[excalidraw\|excalidraw]]
 
